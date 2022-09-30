@@ -22,7 +22,7 @@ public class TestSleep
         Test t=new Test();//Creating a Thread t
         t.start();//Executing Thread t
         System.out.println("In main method");
-        System.out.println("21CE016:MAMTA");
+        System.out.println("21CE078:Kush");
 
     }
 }
