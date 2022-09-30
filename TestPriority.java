@@ -24,7 +24,7 @@ public class DemoPriority
         t1.start();//Executing Thread t1
         t2.start();//Executing Thread t2
         t3.start();//Executing Thread t2
-        System.out.println("21CE016:MAMTA ");
+        System.out.println("21CE078:Kush");
 
 
     }
