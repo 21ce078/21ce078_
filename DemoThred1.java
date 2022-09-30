@@ -13,7 +13,7 @@ public class DemoThread1
         Thread obj=new Thread(new Demo1());//Creating Thread obj
         obj.start();//Executing the Thread
         System.out.println("Hello World from main Thread");
-        System.out.println("21CE016:MAMTA ");
+        System.out.println("21CE078:Kush");
 
     }
 }
