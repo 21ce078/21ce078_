@@ -1,4 +1,4 @@
-//id-21ce010,name-vedika
+
 import java.io.*;
 import java.util.*;
 public class CopyFromFileaToFileb {
