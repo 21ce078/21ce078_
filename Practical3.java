@@ -1,4 +1,4 @@
-//id-21ce010,name-vedika
+
 import java.util.*;
 class AccountHolder {
     Scanner sc = new Scanner(System.in);
