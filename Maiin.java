@@ -1,4 +1,4 @@
-//id-21ce010,name-vedika
+
 import java.io.File;
 public class Maiin {
     public static void main(String[] args) throws Exception
