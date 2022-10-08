@@ -1,4 +1,4 @@
-//id-21ce010,name-vedika
+
 public class ArraySort {
       public static void insertionSort(Object[] a) {
          for (int i=0;  i != a.length;  i = i+1) {
