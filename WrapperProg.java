@@ -1,4 +1,4 @@
-//id-21ce010,name-vedika
+
 import java.util.*;
 class WrapperProg {
     public static void main(String[] args)
