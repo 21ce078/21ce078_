@@ -1,4 +1,4 @@
-//id-21ce010,name-vedika
+
 import java.io.*;
 public class TestClass{
   public static void main(String[] args) {
