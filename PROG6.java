@@ -1,4 +1,4 @@
-//THIS PROGRAM PREPARED BY MAMTA 21CE016
+//THIS PROGRAM PREPARED BY KUSH 21CE078
 import java.util.*;
 class GeometricObject {
     double side1 = 1, side2 = 1, side3 = 1;
