@@ -1,6 +1,6 @@
  
 
-//THIS PROGRAM PREPARED BY MAMTA 21CE016
+//THIS PROGRAM PREPARED BY KUSH 21CE078
     import java.io.File; // Import the File class
     import java.io.IOException; // Import the IOException class to handle errors
     import java.util.*; //used to import scanner
