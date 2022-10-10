@@ -1,5 +1,5 @@
 
-//THIS PROGRAM PREPARED BY MAMTA 21CE016
+//THIS PROGRAM PREPARED BY KUSH 21CE078
 import java.io.*;
 
 public class pr8 {
